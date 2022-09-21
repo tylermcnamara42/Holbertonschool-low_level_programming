@@ -1,6 +1,4 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include 
 
 int print_sign(int x)
 {

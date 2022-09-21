@@ -1,10 +1,9 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include
 
 int _islower(int x)
 {
 	if (x >= 'a' && x <= 'z')
+
 		return (1);
 	else
 		return (0);

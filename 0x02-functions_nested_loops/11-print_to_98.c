@@ -1,6 +1,4 @@
-#!bin/bash
-
-#include <stdio.h>
+#include 
 
 void print_to_98(int x)
 {

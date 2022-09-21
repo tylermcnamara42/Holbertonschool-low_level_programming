@@ -1,6 +1,4 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include 
 
 int add (int num1, int num2)
 {

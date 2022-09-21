@@ -1,6 +1,4 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include "main.h" 
 
 int main(void)
 {
@@ -8,3 +6,4 @@ int main(void)
 
 	return (0);
 }
+

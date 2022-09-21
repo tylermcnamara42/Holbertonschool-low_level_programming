@@ -1,6 +1,4 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include
 
 int _abs(int x)
 {

@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #include <stdio.h>
 
 int main(void)
@@ -8,7 +6,8 @@ int main(void)
 	
 	for(alphabet = 'a '; alphabet <='z';alphabet++)
 	{
-		if (alphabet != 'e' && alphabet 1= "q"
+		if (alphabet != 'e' && alphabet != "q")
+
 				putchar(alphabet);
 	}
 

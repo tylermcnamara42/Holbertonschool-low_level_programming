@@ -1,6 +1,4 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include 
 
 void times_table(void)
 {

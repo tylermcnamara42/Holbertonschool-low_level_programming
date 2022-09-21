@@ -1,6 +1,4 @@
-#!/bin/bash
-
-#include <stdio.h>
+#include 
 
 void jack_bauer(void)
 {
