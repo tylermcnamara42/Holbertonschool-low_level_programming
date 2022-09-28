@@ -1,8 +1,9 @@
 #include "main.h"
 
-/*print_triangle - Print a traingle, using the character #.
- * @size: The size of the triangle.
- * /
+/*
+ * print_triangle - Print a triangle, using the character pound symbol.
+ * At the size: The size of the triangle.
+ */
 
 void print_triangle(int size)
 {

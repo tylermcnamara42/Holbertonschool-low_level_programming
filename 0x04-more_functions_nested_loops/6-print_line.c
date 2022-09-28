@@ -4,11 +4,11 @@ void print_line(int x)
 {
 	int line;
 
-	if (n > 0)
+	if (x > 0)
 	{
-		for (line = 0, line < n; line++)
+		for (line = 0; line < x; line++)
 
-			putchar('_');
+			_putchar('_');
 	}
 
 	_putchar('\n');

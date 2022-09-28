@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(void)
 {
@@ -20,7 +22,7 @@ int main(void)
 
 		else
 
-			printf("%d, num);
+			printf("%d", num);
 
 		if (num == 100)
 
