@@ -1,8 +1,14 @@
-#include "main.h" 
+#include "main.h"
+
+/**
+ * main - prints putchar as a message.
+ *
+ * Return: Always0
+ */
 
 int main(void)
 {
-	putchar('_putchar');
+	_putchar('_putchar');
 
 	return (0);
 }
